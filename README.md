@@ -6,12 +6,11 @@ This program has a total of 4 functions including main. It lets the user choose 
 
 ## Working images:
 
-Inputs:
-![Start](https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image1.jpg?raw=true)
+### Monthly:
+!(https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image1.jpg?raw=true)
 
-Monthly:
-![Start](https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image2.jpg?raw=true)
-
-Yearly:
-![Start](https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image3.jpg?raw=true)
-![Start](https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image4.jpg?raw=true)
+### Yearly:
+!(https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image2.jpg?raw=true)
+!(https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image3.jpg?raw=true)
+!(https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image4.jpg?raw=true)
+!(https://github.com/A-Raja-Rajendran/CppCalendar/blob/main/image5.jpg?raw=true)
